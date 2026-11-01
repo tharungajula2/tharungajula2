@@ -20,9 +20,9 @@ An explainable location-evidence workstation that weighs conflicting signals, tr
 
 A learning experience for practicing better questions: a navigable 3D map of 147 concepts, 36 activity playbooks and six curated paths. The portal works as a learning prototype; its session runner and planner are incomplete.
 
-### [VIZIER / AI Knowledge Graph](https://github.com/tharungajula2/ai-knowledge-graph)
+### [AI Knowledge Graph](https://github.com/tharungajula2/ai-knowledge-graph)
 
-Where Curiosity OS focuses on the learner's activities, VIZIER focuses on the architecture of knowledge: a compiler turns a 228-entry AI engineering syllabus and Markdown notes into a linked graph, searchable library and note reader. It is a personal learning system; the current curriculum snapshot does not mark its planned chapters as completed.
+Where Curiosity OS focuses on the learner's activities, AI Knowledge Graph focuses on the architecture of knowledge: a compiler turns a 228-entry AI engineering syllabus and Markdown notes into a linked graph, searchable library and note reader. It is a personal learning system; the current curriculum snapshot does not mark its planned chapters as completed.
 
 ### [Analytics & ML Portfolio](https://github.com/tharungajula2/Analytics-ML-Portfolio)
 
@@ -40,7 +40,7 @@ A consumer food concept carried into an editorial storefront, sample product cat
 
 ## More explorations
 
-**Matching and everyday wellbeing:** [Therapy Matching OS](https://github.com/tharungajula2/therapy-matching-os) is a seeded, rule-based discovery concept, not a clinical service; [Runway 250](https://github.com/tharungajula2/runway250_beta) explores a daily-action loop against a seeded journey; [Trelis Life](https://github.com/tharungajula2/daily-small-wins) explores small wins and reflection.
+**Matching and everyday wellbeing:** [Therapy Matching OS](https://github.com/tharungajula2/therapy-matching-os) is a seeded, rule-based discovery concept, not a clinical service; [Runway 250](https://github.com/tharungajula2/runway250_beta) explores a daily-action loop against a seeded journey; [Daily Small Wins](https://github.com/tharungajula2/daily-small-wins) explores small wins and reflection.
 
 **Knowledge and publishing:** [WARREN](https://github.com/tharungajula2/warren) links 304 draft, unverified banking-risk atoms; [Quant OS](https://github.com/tharungajula2/quant-os) is a finance reading graph; [Loud Recall](https://github.com/tharungajula2/loud-recall) is a public-note library.
 
