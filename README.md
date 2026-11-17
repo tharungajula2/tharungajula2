@@ -4,46 +4,37 @@
 
 ### I turn complex analysis into usable products — and make the reasoning visible.
 
-A score, a shortlist, or a learning path can look convincing before its assumptions are clear. I build the models and interfaces around those decisions, then show where the evidence comes from and where it stops. This portfolio spans exploration, implemented tools and concept products, with evaluation and honest maturity notes close to the work.
+I started in lending technology and portfolio analytics, translating lending rules into systems and conflicting numbers into one definition. Now I design and build complete products, directing AI coding agents: I make the product, design and quality decisions, and I verify the results.
 
 ## Featured work
 
-### [Retail Credit Risk](https://github.com/tharungajula2/retail-credit-risk)
+### [Trelis World](https://trelis-world.vercel.app) · [take the tour →](https://trelis-world.vercel.app/demo)
 
-I built a credit-risk engineering study around PD scorecards, LGD/EAD, monitoring and reporting, then added synthetic-tested contracts for dated outcomes and reporting inputs. It is an engineering case study; historical model results and regulatory totals remain unverified.
+**One app for the whole of you: Family, Mind and Body, with an AI buddy called Sakha.** My flagship independent product. I designed and built it end to end, and I use it every day.
 
-### [LOC-IQ](https://github.com/tharungajula2/loc-iq)
+- **Family:** two experiences in one family. A full app for the person who manages care, and a big, simple screen for a parent on their own phone. Medicines and routines with push reminders and missed-item alerts, health records, a daily check-in, a Help me button and QR sign-in for elders.
+- **Mind:** an adaptive daily challenge across 12 skills, including spotting flaws in AI answers, with a "How sure are you?" check that trains calibration.
+- **Body:** log any practice in your own words, from yoga to weights, and watch a body map light up where you trained.
+- **Sakha:** an AI buddy across all three worlds, behind per-person consent switches. It never gives the answer before you try.
 
-An explainable location-evidence workstation that weighs conflicting signals, traces them through a graph and explains candidate postal-code rankings. The cases are synthetic; the reference catalog is not a set of live API integrations.
+**How it's built:** Next.js · TypeScript · Supabase (Postgres, row-level security, pg_cron) · Web Push · Vercel · Gemini · Capacitor (Android).
+Row-level security on every table, checked by an automated cross-family security suite. AA contrast enforced by a unit test. Its own brand and day/night design system.
 
-### [Curiosity OS](https://github.com/tharungajula2/curiosity-os)
+**Decisions I'm proud of:** retiring five games after elder feedback; asking no health questions at sign-up; consent before any care data is stored; merging two separate products into one app.
 
-A learning experience for practicing better questions: a navigable 3D map of 147 concepts, 36 activity playbooks and six curated paths. The portal works as a learning prototype; its session runner and planner are incomplete.
+*Live and in private use; sign-ups are closed while it's in progress. The repository is private. The tour shows the real app on sample data.*
 
-### [AI Knowledge Graph](https://github.com/tharungajula2/ai-knowledge-graph)
+## Experiments and studies
 
-Where Curiosity OS focuses on the learner's activities, AI Knowledge Graph focuses on the architecture of knowledge: a compiler turns a 228-entry AI engineering syllabus and Markdown notes into a linked graph, searchable library and note reader. It is a personal learning system; the current curriculum snapshot does not mark its planned chapters as completed.
+Smaller pieces, each with its maturity stated in its own README.
 
-### [Analytics & ML Portfolio](https://github.com/tharungajula2/Analytics-ML-Portfolio)
+- **[Retail Credit Risk](https://github.com/tharungajula2/retail-credit-risk):** PD scorecards, LGD/EAD, monitoring and reporting on public lending data. An engineering case study; historical results remain unverified.
+- **[Analytics & ML Portfolio](https://github.com/tharungajula2/Analytics-ML-Portfolio):** forecasting against naive baselines, plus leakage-safe credit-risk and churn frameworks with synthetic tests.
+- **[Curiosity OS](https://github.com/tharungajula2/curiosity-os):** a learning prototype for asking better questions, built on a navigable 3D map of 147 concepts.
+- **[better4u](https://github.com/tharungajula2/better4u):** a brand and storefront concept that shows editorial and interaction design. Not a live business.
 
-Independent studies in forecasting, credit risk, churn and reinforcement learning. The corrected forecasting companion compares rolling predictions with naive baselines; the corrected credit-risk and churn frameworks have synthetic software tests but no new real-data results.
+## How I work
 
-### [better4u](https://github.com/tharungajula2/better4u)
+**Understand → Build → Verify → Improve.** Find the real person and problem. Build something they can use. Prove it works, honestly. Remove what doesn't help.
 
-A consumer food concept carried into an editorial storefront, sample product catalog, recipe collections and browser-local cart. It demonstrates brand and interaction design, not a live commerce operation or verified product claims.
-
-## How I approach a problem
-
-- **Make the decision path inspectable.** LOC-IQ exposes evidence provenance; Therapy Matching OS separates eligibility rules from ranking; the credit-risk project gates interpretation on the data it needs.
-- **Treat evaluation as part of the build.** The forecasting companion uses rolling comparisons against simple baselines. The CartPole companion reports variation across seeds and does not claim a reward-shaping win from a small observed difference.
-- **Design the whole journey.** The projects connect research or content models to navigation, feedback and interaction, whether that is a learning path, a risk review, a daily reflection or a product concept.
-
-## More explorations
-
-**Matching and everyday wellbeing:** [Therapy Matching OS](https://github.com/tharungajula2/therapy-matching-os) is a seeded, rule-based discovery concept, not a clinical service; [Runway 250](https://github.com/tharungajula2/runway250_beta) explores a daily-action loop against a seeded journey; [Daily Small Wins](https://github.com/tharungajula2/daily-small-wins) explores small wins and reflection.
-
-**Knowledge and publishing:** [WARREN](https://github.com/tharungajula2/warren) links 304 draft, unverified banking-risk atoms; [Quant OS](https://github.com/tharungajula2/quant-os) is a finance reading graph; [Loud Recall](https://github.com/tharungajula2/loud-recall) is a public-note library.
-
-**Venture and operations concepts:** [FMCG Whitespace OS](https://github.com/tharungajula2/fmcg-whitespace-os) lays out product and channel hypotheses; [Punarnava](https://github.com/tharungajula2/punarnava) models a proposed recycling process in an interactive factory walkthrough. Both are concept studies, not operating businesses.
-
-The question behind much of this work: **what would someone need to see and understand before trusting a system's recommendation?**
+[trelis-world.vercel.app](https://trelis-world.vercel.app) · [LinkedIn](https://www.linkedin.com/in/tharungajula) · tharun.gajula.2@gmail.com
