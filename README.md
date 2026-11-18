@@ -6,6 +6,8 @@ Background in lending and portfolio analytics. These days I mostly build with AI
 
 ## Trelis World (side project, work in progress)
 
+*Connecting the dots, one piece at a time.*
+
 [Live app](https://trelis-world.vercel.app) · [Short tour, no sign-up](https://trelis-world.vercel.app/demo)
 
 It started as Trelis Family, a small app to help my family keep track of my parents' medicines and routines. Later I added Mind, for puzzles and thinking practice, and then Body, for logging how I move. They now sit together in one app, with a small AI helper called Sakha. I use it most days.
@@ -14,7 +16,7 @@ It started as Trelis Family, a small app to help my family keep track of my pare
 - **Mind:** a daily set of puzzles and thinking challenges that adjusts to your level.
 - **Body:** log any kind of movement in your own words; a body map shows what you've worked.
 
-A few decisions along the way: five games came out after feedback from elders who tried them; sign-up asks no health questions, and care features are opt-in; every database table has security rules checked by automated tests, since it holds family health data.
+A few decisions along the way: each part has one job, so the games moved out of Family into Mind and Family stays about care; sign-up asks no health questions, and care features are opt-in; every database table has security rules checked by automated tests, since it holds family health data.
 
 Built with Next.js, TypeScript, Supabase and Vercel. The repo is private; the tour shows the real app on sample data.
 
