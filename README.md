@@ -1,18 +1,10 @@
-# Tharun Gajula
-
-**Applied Analytics & Product Engineer** · Bengaluru
-
-Background in lending and portfolio analytics. These days I mostly build with AI coding tools.
-
 ## Trelis World (side project, work in progress)
 
-*Connecting the dots, one piece at a time.*
+*Connecting the dots, one piece at a time.* · [Short tour, no sign-up](https://trelis-world.vercel.app/demo)
 
-[Live app](https://trelis-world.vercel.app) · [Short tour, no sign-up](https://trelis-world.vercel.app/demo)
+It started as Trelis Family, a small app to help my family keep track of my parents' medicines and routines, and grew from there into Mind and Body. The three now sit together in one app, with a small AI helper called Sakha. I use it most days.
 
-It started as Trelis Family, a small app to help my family keep track of my parents' medicines and routines. Later I added Mind, for puzzles and thinking practice, and then Body, for logging how I move. They now sit together in one app, with a small AI helper called Sakha. I use it most days.
-
-- **Family:** reminders for medicines and routines, health records, and a simpler screen for parents on their own phone.
+- **Family:** reminders, health records, and a simpler screen for parents on their own phone.
 - **Mind:** a daily set of puzzles and thinking challenges that adjusts to your level.
 - **Body:** log any kind of movement in your own words; a body map shows what you've worked.
 
